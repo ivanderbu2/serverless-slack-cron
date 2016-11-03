@@ -1,0 +1,15 @@
+{
+  "name": "serverless-slack-cron",
+  "version": "0.0.1",
+  "description": "Serverless cron script, posts to Slack webhook.",
+  "author": "Ivan Radunovic",
+  "license": "MIT",
+   "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivanderbu2/serverless-slack-cron.git"
+  },
+  "dependencies": {
+    "dotenv": "^2.0.0",
+    "request": "^2.78.0"
+  }
+}
