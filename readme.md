@@ -1,5 +1,7 @@
 # Serverless Slack Cron
 
+[![Build Status](https://travis-ci.org/ivanderbu2/serverless-slack-cron.svg?branch=master)](https://travis-ci.org/ivanderbu2/serverless-slack-cron)
+
 This is simple Serverless project with one Lambda function activated via cron job.
 
 It sends message to Slack channel. Before you can use it copy .env.example file to .env and insert your Slack incoming webhook url there.
