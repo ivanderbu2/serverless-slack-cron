@@ -19,5 +19,5 @@ sls deploy --profile=myProfileName
 Before deploying you can locally test function from project directory via:
 
 ```shell
-node test.js
+npm test
 ```
