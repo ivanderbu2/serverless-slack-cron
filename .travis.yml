@@ -1,0 +1,10 @@
+language: node_js
+node_js:
+  - '4.3'
+
+env:
+  - SLACK='https://hooks.slack.com'
+  - WEBHOOK='/services/'
+
+before_install:
+  - npm i -g serverless
